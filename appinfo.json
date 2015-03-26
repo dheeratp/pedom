@@ -1,0 +1,105 @@
+{
+    "versionLabel": "1.5",
+    "uuid": "07d87811-510f-48f2-b723-6bcfc4db9a40",
+    "appKeys": {},
+    "longName": "Pedometer for Pebble",
+    "versionCode": 7,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Pedometer",
+    "companyName": "Jathusan Thiruchelvanathan",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "FLAME_BLK",
+                "file": "images/flame2.png"
+            },
+            {
+                "type": "png",
+                "name": "FLAME_WHITE",
+                "file": "images/flame.png"
+            },
+            {
+                "type": "font",
+                "name": "BEBAS_30",
+                "file": "fonts/bebas.TTF"
+            },
+            {
+                "type": "font",
+                "name": "BEBAS_15",
+                "file": "fonts/bebas.TTF"
+            },
+            {
+                "type": "font",
+                "name": "BEBAS_40",
+                "file": "fonts/bebas.TTF"
+            },
+            {
+                "type": "font",
+                "name": "BEBAS_35",
+                "file": "fonts/bebas.TTF"
+            },
+            {
+                "type": "png",
+                "name": "PED_WHITE",
+                "file": "images/ped_white.png"
+            },
+            {
+                "type": "png",
+                "name": "PED_BLK",
+                "file": "images/ped_blk.png"
+            },
+            {
+                "type": "png",
+                "name": "STATUS_BAR",
+                "file": "images/statusbar.png"
+            },
+            {
+                "type": "png",
+                "name": "SPLASH",
+                "file": "images/splash.png"
+            },
+            {
+                "type": "png",
+                "name": "BTN_SETUP",
+                "file": "images/setup.png"
+            },
+            {
+                "type": "png",
+                "name": "BTN_UP",
+                "file": "images/up.png"
+            },
+            {
+                "type": "png",
+                "name": "BTN_DOWN",
+                "file": "images/down.png"
+            },
+            {
+                "type": "font",
+                "name": "ROBOTO_LT_25",
+                "file": "fonts/Roboto-Light.ttf"
+            },
+            {
+                "type": "font",
+                "name": "ROBOTO_LT_30",
+                "file": "fonts/Roboto-Light.ttf"
+            },
+            {
+                "type": "font",
+                "name": "ROBOTO_LT_15",
+                "file": "fonts/Roboto-Light.ttf"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "ICON",
+                "file": "images/icon.png"
+            }
+        ]
+    }
+}
